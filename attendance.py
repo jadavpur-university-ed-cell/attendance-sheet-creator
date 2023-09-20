@@ -28,7 +28,7 @@ all_depts = [
     "Food Technology",
     "Printing Engineering",
 ]
-all_years = ["UG-3", "UG-4"]
+all_years = ["UG-2", "UG-1", "UG-3", "UG-4"]
 
 for title in session_titles:
     num_students = random.randint(min_attendance, max_attendance)
